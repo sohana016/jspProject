@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p ="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>SignUp</title>
+        <style>
+            body{
+                background-image: url("resource/pic1.jpg");
+                
+            }
+ 
+        </style>
+
+
+    </h:head>
+    <h:body>
+
+ <p:breadCrumb>
+                        <p:menuitem value="Homepage" url="http://www.primefaces.org" icon="pi pi-home"/>
+                        <p:menuitem style="color: white" value="Categories" url="#" />
+                        <p:menuitem value="SignIn" url="#" />
+                        <p:menuitem value="Signup" url="#" />
+                        <p:menuitem value="Attendence" url="#" />
+                        <p:menuitem value="PayRoll" url="#" />
+                        <p:menuitem value="L.A. Lakers" url="#" />
+                        <p:menuitem value="Roster" url="#" />
+                        <p:menuitem value="Kobe Bryant" url="#" />
+
+
+                    </p:breadCrumb><br/><br/><br/><br/>
+       
+         <center>
+             <div id="shado">
+        <h:form>
+            <p:panelGrid columns="2">
+        <f:facet name="header">SignUp</f:facet>
+        <h:outputLabel for="firstname" value="First Name"/>
+        <p:inputText id="firstname" value="#{information.firstName}"  />
+        <h:outputLabel for="lastName" value="Last Name"/>
+        <p:inputText id="lastName" value="#{information.lastName}"/>
+        <h:outputLabel for="dateofBirth" value="Date of Birth"/>
+        <p:calendar value="#{information.dateofBirth}" id="dateofBirth"/>
+        
+         <h:outputLabel for="qualification" value="Qualification"/>
+         <p:selectManyCheckbox id="qualification" value="#{information.qualification}">
+        <f:selectItem itemLabel="S.S.C" itemValue="S.S.C ," />
+        <f:selectItem itemLabel="H.S.C" itemValue="H.S.C ," />
+        <f:selectItem itemLabel="B.B.A" itemValue="B.B.A" />
+    </p:selectManyCheckbox>
+          <h:outputLabel for="gender" value="Gender"/>
+          <p:autoComplete id="gender" value="#{information.gender}" completeMethod="#{information.genders}"/>
+          <h:outputLabel for="schedule" value="Schedule"/>
+          <p:selectOneMenu id="schedule" value="#{information.schedule}">
+              <f:selectItem itemLabel="Morning" itemValue="Morning" />
+                <f:selectItem itemLabel="Evening" itemValue="Evening" />
+               </p:selectOneMenu>
+        <f:facet name="footer">
+            <p:commandButton type="submit" value="Submit" icon="ui-icon-check" style="margin: 0" action="#{information.submit}"/>
+            <p:commandButton type="reset" value="Reset" icon="ui-icon-check" style="margin: 0" action="#{information.reset}"/>
+            <p:commandLink value="Click here "/>
+        
+        </f:facet>
+    </p:panelGrid>
+           
+        </h:form>
+                 </div>
+             </center>
+    </h:body>
+</html>
+

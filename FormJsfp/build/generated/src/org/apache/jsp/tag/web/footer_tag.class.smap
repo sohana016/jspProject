@@ -1,0 +1,13 @@
+SMAP
+footer_tag.java
+JSP
+*S JSP
+*F
++ 0 footer.tag
+WEB-INF/tags/footer.tag
+*L
+5,5:70
+9,5:74
+13:78
+14,2:79,3
+*E

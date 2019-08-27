@@ -1,0 +1,366 @@
+30-Jul-2019 15:37:51.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+30-Jul-2019 15:37:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+30-Jul-2019 15:37:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+30-Jul-2019 15:37:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+30-Jul-2019 15:37:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+30-Jul-2019 15:37:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Jul-2019 15:37:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+30-Jul-2019 15:37:51.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+30-Jul-2019 15:37:51.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Jul-2019 15:37:51.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+30-Jul-2019 15:37:51.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+30-Jul-2019 15:37:51.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\logging.properties
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|PC-07--LAB-02
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\temp
+30-Jul-2019 15:37:51.324 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;.]
+30-Jul-2019 15:37:51.554 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Jul-2019 15:37:51.688 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Jul-2019 15:37:51.696 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Jul-2019 15:37:51.697 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Jul-2019 15:37:51.698 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 716 ms
+30-Jul-2019 15:37:51.762 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Jul-2019 15:37:51.762 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+30-Jul-2019 15:37:51.785 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Add.xml]
+30-Jul-2019 15:37:52.063 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Add.xml] has finished in [278] ms
+30-Jul-2019 15:37:52.063 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservation.xml]
+30-Jul-2019 15:37:52.593 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservation'
+30-Jul-2019 15:37:52.671 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 15:37:53.004 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservation.xml] has finished in [941] ms
+30-Jul-2019 15:37:53.004 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservations.xml]
+30-Jul-2019 15:37:53.523 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 15:37:53.586 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 15:37:53.851 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 15:37:53.910 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservations.xml] has finished in [906] ms
+30-Jul-2019 15:37:53.910 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JFPr.xml]
+30-Jul-2019 15:37:54.355 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/JFPr'
+30-Jul-2019 15:37:54.384 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 15:37:54.678 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JFPr.xml] has finished in [768] ms
+30-Jul-2019 15:37:54.678 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\jspStock.xml]
+30-Jul-2019 15:37:54.933 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Jul-2019 15:37:54.933 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\jspStock.xml] has finished in [255] ms
+30-Jul-2019 15:37:54.933 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlFmtPr.xml]
+30-Jul-2019 15:37:54.933 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlFmtPr]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1cd5a60f]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\User\Documents\NetBeansProjects\JstlFmtPr\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+30-Jul-2019 15:37:54.933 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlFmtPr.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlFmtPr]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+30-Jul-2019 15:37:54.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlFmtPr.xml] has finished in [15] ms
+30-Jul-2019 15:37:54.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlPr.xml]
+30-Jul-2019 15:37:54.948 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlPr]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@14feb81]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\User\Documents\NetBeansProjects\JstlPr\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+30-Jul-2019 15:37:54.948 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlPr.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlPr]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+30-Jul-2019 15:37:54.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlPr.xml] has finished in [0] ms
+30-Jul-2019 15:37:54.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Servlet.xml]
+30-Jul-2019 15:37:55.061 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Servlet.xml] has finished in [113] ms
+30-Jul-2019 15:37:55.061 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPr.xml]
+30-Jul-2019 15:37:55.190 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPr.xml] has finished in [129] ms
+30-Jul-2019 15:37:55.190 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPratice.xml]
+30-Jul-2019 15:37:55.455 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPratice.xml] has finished in [265] ms
+30-Jul-2019 15:37:55.455 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml]
+30-Jul-2019 15:37:55.470 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@4e5ba73f]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Java\Documents\NetBeansProjects\SimpleJsps\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+30-Jul-2019 15:37:55.470 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+30-Jul-2019 15:37:55.471 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml] has finished in [16] ms
+30-Jul-2019 15:37:55.471 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Stock.xml]
+30-Jul-2019 15:37:55.481 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Stock]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@2fd0ed6d]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\User\Documents\NetBeansProjects\Stock\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+30-Jul-2019 15:37:55.530 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Stock.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Stock]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+30-Jul-2019 15:37:55.530 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Stock.xml] has finished in [59] ms
+30-Jul-2019 15:37:55.530 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml]
+30-Jul-2019 15:37:55.533 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/testJsp]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@6fb781c1]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Java\Documents\NetBeansProjects\testJsp\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+30-Jul-2019 15:37:55.534 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/testJsp]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+30-Jul-2019 15:37:55.607 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml] has finished in [77] ms
+30-Jul-2019 15:37:55.608 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\docs]
+30-Jul-2019 15:37:55.651 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\docs] has finished in [43] ms
+30-Jul-2019 15:37:55.651 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\examples]
+30-Jul-2019 15:37:55.865 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\examples] has finished in [214] ms
+30-Jul-2019 15:37:55.865 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\host-manager]
+30-Jul-2019 15:37:55.903 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\host-manager] has finished in [38] ms
+30-Jul-2019 15:37:55.903 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\manager]
+30-Jul-2019 15:37:55.922 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\manager] has finished in [19] ms
+30-Jul-2019 15:37:55.922 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\ROOT]
+30-Jul-2019 15:37:55.959 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\ROOT] has finished in [36] ms
+30-Jul-2019 15:37:55.962 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Jul-2019 15:37:55.969 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+30-Jul-2019 15:37:55.970 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4271 ms
+30-Jul-2019 15:38:08.832 WARNING [http-nio-8080-exec-4] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: flight, value class: com.Flight.Deser.FlightSearch).
+30-Jul-2019 16:28:03.550 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 16:28:04.003 INFO [http-nio-8080-exec-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 16:28:04.050 INFO [http-nio-8080-exec-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 16:28:04.331 INFO [http-nio-8080-exec-1] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 16:28:04.362 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 16:28:04.393 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 16:28:04.706 INFO [http-nio-8080-exec-5] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 16:28:04.753 INFO [http-nio-8080-exec-5] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 16:28:05.034 INFO [http-nio-8080-exec-5] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 16:28:05.049 INFO [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 16:30:49.991 INFO [http-nio-8080-exec-14] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 16:30:50.303 INFO [http-nio-8080-exec-14] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 16:30:50.366 INFO [http-nio-8080-exec-14] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 16:30:50.584 INFO [http-nio-8080-exec-14] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 16:30:50.615 INFO [http-nio-8080-exec-14] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 16:34:01.586 INFO [http-nio-8080-exec-18] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 16:34:01.899 INFO [http-nio-8080-exec-18] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 16:34:01.961 INFO [http-nio-8080-exec-18] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 16:34:02.180 INFO [http-nio-8080-exec-18] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 16:34:02.195 INFO [http-nio-8080-exec-18] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 16:37:24.948 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 16:37:25.244 INFO [http-nio-8080-exec-20] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 16:37:25.291 INFO [http-nio-8080-exec-20] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 16:37:25.494 INFO [http-nio-8080-exec-20] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 16:37:25.526 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 16:40:08.433 INFO [http-nio-8080-exec-23] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 16:40:08.762 INFO [http-nio-8080-exec-23] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 16:40:08.793 INFO [http-nio-8080-exec-23] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 16:40:09.027 INFO [http-nio-8080-exec-23] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 16:40:09.058 INFO [http-nio-8080-exec-23] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:11:37.236 INFO [http-nio-8080-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:11:37.627 INFO [http-nio-8080-exec-27] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:11:37.673 INFO [http-nio-8080-exec-27] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:11:37.892 INFO [http-nio-8080-exec-27] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:11:37.908 INFO [http-nio-8080-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:14:36.762 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:14:37.043 INFO [http-nio-8080-exec-29] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:14:37.090 INFO [http-nio-8080-exec-29] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:14:37.324 INFO [http-nio-8080-exec-29] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:14:37.340 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:15:07.196 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:15:07.477 INFO [http-nio-8080-exec-30] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:15:07.524 INFO [http-nio-8080-exec-30] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:15:07.727 INFO [http-nio-8080-exec-30] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:15:07.759 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:19:23.208 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:19:23.521 INFO [http-nio-8080-exec-42] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:19:23.568 INFO [http-nio-8080-exec-42] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:19:23.771 INFO [http-nio-8080-exec-42] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:19:23.802 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:26:16.658 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:26:16.955 INFO [http-nio-8080-exec-47] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:26:16.986 INFO [http-nio-8080-exec-47] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:26:17.189 INFO [http-nio-8080-exec-47] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:26:17.205 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:26:17.611 WARNING [http-nio-8080-exec-49] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: flight, value class: com.Flight.Deser.FlightSearch).
+30-Jul-2019 17:46:41.883 INFO [http-nio-8080-exec-56] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:46:42.211 INFO [http-nio-8080-exec-56] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:46:42.258 INFO [http-nio-8080-exec-56] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:46:42.477 INFO [http-nio-8080-exec-56] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:46:42.492 INFO [http-nio-8080-exec-56] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:46:43.462 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 17:46:43.759 INFO [http-nio-8080-exec-63] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 17:46:43.806 INFO [http-nio-8080-exec-63] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 17:46:44.024 INFO [http-nio-8080-exec-63] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 17:46:44.040 INFO [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 17:46:44.838 WARNING [http-nio-8080-exec-55] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: flight, value class: com.Flight.Deser.FlightSearch).
+30-Jul-2019 18:33:49.075 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 18:33:49.372 INFO [http-nio-8080-exec-67] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 18:33:49.418 INFO [http-nio-8080-exec-67] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 18:33:49.653 INFO [http-nio-8080-exec-67] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 18:33:49.668 INFO [http-nio-8080-exec-67] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 18:34:17.411 INFO [http-nio-8080-exec-74] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 18:34:17.692 INFO [http-nio-8080-exec-74] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 18:34:17.739 INFO [http-nio-8080-exec-74] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 18:34:17.973 INFO [http-nio-8080-exec-74] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 18:34:18.004 INFO [http-nio-8080-exec-74] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 18:35:04.854 INFO [http-nio-8080-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 18:35:05.135 INFO [http-nio-8080-exec-70] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 18:35:05.182 INFO [http-nio-8080-exec-70] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 18:35:05.385 INFO [http-nio-8080-exec-70] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 18:35:05.417 INFO [http-nio-8080-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 18:35:06.873 INFO [http-nio-8080-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] has started
+30-Jul-2019 18:35:07.170 INFO [http-nio-8080-exec-70] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+30-Jul-2019 18:35:07.201 INFO [http-nio-8080-exec-70] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+30-Jul-2019 18:35:07.404 INFO [http-nio-8080-exec-70] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+30-Jul-2019 18:35:07.435 INFO [http-nio-8080-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/FlightDeservations] is completed
+30-Jul-2019 18:35:07.795 WARNING [http-nio-8080-exec-78] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: flight, value class: com.Flight.Deser.FlightSearch).
+30-Jul-2019 18:47:05.115 WARNING [http-nio-8080-exec-85] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID departDate in view.
+30-Jul-2019 18:47:05.115 WARNING [http-nio-8080-exec-85] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID returnDate in view.
+30-Jul-2019 18:48:01.298 WARNING [http-nio-8080-exec-87] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: flight, value class: com.Flight.Deser.FlightSearch).
+30-Jul-2019 18:48:01.298 WARNING [http-nio-8080-exec-87] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID departDate in view.
+30-Jul-2019 18:48:01.298 WARNING [http-nio-8080-exec-87] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID returnDate in view.
+30-Jul-2019 18:48:34.771 WARNING [http-nio-8080-exec-79] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID departDate in view.
+30-Jul-2019 18:48:34.771 WARNING [http-nio-8080-exec-79] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID returnDate in view.
+30-Jul-2019 18:48:59.337 WARNING [http-nio-8080-exec-84] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID departDate in view.
+30-Jul-2019 18:48:59.337 WARNING [http-nio-8080-exec-84] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID returnDate in view.
+30-Jul-2019 18:49:08.636 WARNING [http-nio-8080-exec-86] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID departDate in view.
+30-Jul-2019 18:49:08.636 WARNING [http-nio-8080-exec-86] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID returnDate in view.
+30-Jul-2019 18:49:15.471 WARNING [http-nio-8080-exec-86] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: flight, value class: com.Flight.Deser.FlightSearch).
+30-Jul-2019 18:49:15.471 WARNING [http-nio-8080-exec-86] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID departDate in view.
+30-Jul-2019 18:49:15.471 WARNING [http-nio-8080-exec-86] com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.getForComponent Unable to find component with ID returnDate in view.
+30-Jul-2019 19:18:41.515 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Jul-2019 19:18:41.515 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Jul-2019 19:18:41.573 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Jul-2019 19:18:41.614 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Jul-2019 19:18:41.645 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Jul-2019 19:18:41.661 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+30-Jul-2019 19:18:41.661 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Jul-2019 19:18:41.661 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

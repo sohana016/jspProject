@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:p="http://primefaces.org/ui">
+   
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+<!--        <h:form>  
+   <h3>Name</h3>
+   <span class="ui-float-label">
+       <p:inputText id="name" value="#{payRoll.name}" />
+       <p:outputLabel for="" />
+   </span>
+   
+   <h3>ID:</h3>
+   <span class="ui-float-label">
+       <p:inputText id="id" value="#{payRoll.id}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Basic Salary:</h3>
+   <span class="ui-float-label">
+       <p:inputText id="basicSalary" value="#{payRoll.basicSalary}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Over Time</h3>
+   <span class="ui-float-label">
+       <p:inputText id="overTime" value="#{payRoll.overTime}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Leave</h3>
+   <span class="ui-float-label">
+       <p:inputText id="leave" value="#{payRoll.leave}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Late</h3>
+   <span class="ui-float-label">
+       <p:inputText id="late" value="#{payRoll.late}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Bonus</h3>
+   <span class="ui-float-label">
+       <p:inputText id="bonus" value="#{payRoll.bonus}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Insurance Cost</h3>
+   <span class="ui-float-label">
+       <p:inputText id="insurenceCost" value="#{payRoll.insurenceCost}" />
+       <p:outputLabel for="" />
+   </span>
+   <h3>Tax</h3>
+   <span class="ui-float-label">
+       <p:inputText id="tax" value="#{payRoll.tax}" />
+       <p:outputLabel for="" />
+   </span>
+   
+  <h3>VAT</h3>
+   <span class="ui-float-label">
+       <p:inputText id="vat" value="#{payRoll.vat}" />
+       <p:outputLabel for="" />
+   </span>
+  
+  <h3>Other Maintenance</h3>
+   <span class="ui-float-label">
+       <p:inputText id="maitenance" value="#{payRoll.maitenance}" />
+       <p:outputLabel for="" />
+   </span>
+  <h3>Total Salary</h3>
+   <span class="ui-float-label">
+       <p:inputText id="totalSalary" value="#{payRoll.totalSalary}" />
+       <p:outputLabel for="" />
+   </span>
+ 
+</h:form>-->
+
+
+<h:form>  
+<h:outputLabel for="username">User Name</h:outputLabel>  
+<h:inputText id="username" value="#{payRoll.name}"/><br/>  
+<h:commandButton id="submit-button" value="Submit" action="response.xhtml"/>  
+</h:form>  
+
+
+
+    </h:body>
+   
+</html>
+
+

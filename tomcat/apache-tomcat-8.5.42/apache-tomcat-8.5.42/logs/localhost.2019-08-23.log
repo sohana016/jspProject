@@ -1,0 +1,18 @@
+23-Aug-2019 14:25:48.744 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-Aug-2019 14:25:48.744 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-Aug-2019 14:25:48.744 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@79193d19')
+23-Aug-2019 19:13:24.235 SEVERE [localhost-startStop-2] org.apache.catalina.core.ApplicationFilterConfig.release Failed to destroy the filter named [open] of type [com.filter.Open]
+	java.lang.UnsupportedOperationException: Not supported yet.
+		at com.filter.Open.destroy(Open.java:40)
+		at org.apache.catalina.core.ApplicationFilterConfig.release(ApplicationFilterConfig.java:318)
+		at org.apache.catalina.core.StandardContext.filterStop(StandardContext.java:4648)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5466)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:226)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1439)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1428)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+23-Aug-2019 19:13:24.314 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-Aug-2019 19:13:24.314 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

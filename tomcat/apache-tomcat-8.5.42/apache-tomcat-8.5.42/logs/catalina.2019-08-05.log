@@ -1,0 +1,1021 @@
+05-Aug-2019 14:32:44.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\logging.properties
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|PC-07--LAB-02
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\temp
+05-Aug-2019 14:32:44.218 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;.]
+05-Aug-2019 14:32:44.426 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Aug-2019 14:32:44.567 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Aug-2019 14:32:44.629 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+05-Aug-2019 14:32:44.629 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Aug-2019 14:32:44.629 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 840 ms
+05-Aug-2019 14:32:44.707 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Aug-2019 14:32:44.707 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+05-Aug-2019 14:32:44.707 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Add.xml]
+05-Aug-2019 14:32:45.207 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Add.xml] has finished in [500] ms
+05-Aug-2019 14:32:45.207 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservation.xml]
+05-Aug-2019 14:32:45.848 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservation'
+05-Aug-2019 14:32:45.957 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:46.332 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservation.xml] has finished in [1,125] ms
+05-Aug-2019 14:32:46.332 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservations.xml]
+05-Aug-2019 14:32:47.004 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/FlightDeservations'
+05-Aug-2019 14:32:47.082 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:47.379 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener$WebConfigResourceMonitor$Monitor.<init> Monitoring file:/D:/1248515/javaServerSide/FlightDeservations/build/web/WEB-INF/faces-config.xml for modifications
+05-Aug-2019 14:32:47.410 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\FlightDeservations.xml] has finished in [1,078] ms
+05-Aug-2019 14:32:47.410 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml]
+05-Aug-2019 14:32:48.000 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Fromjsf'
+05-Aug-2019 14:32:48.044 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:48.315 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml] has finished in [905] ms
+05-Aug-2019 14:32:48.315 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JFPr.xml]
+05-Aug-2019 14:32:48.719 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/JFPr'
+05-Aug-2019 14:32:48.790 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:49.077 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JFPr.xml] has finished in [762] ms
+05-Aug-2019 14:32:49.077 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\jspStock.xml]
+05-Aug-2019 14:32:49.343 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:32:49.343 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\jspStock.xml] has finished in [266] ms
+05-Aug-2019 14:32:49.343 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlFmtPr.xml]
+05-Aug-2019 14:32:49.358 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlFmtPr]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@4589ddec]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\User\Documents\NetBeansProjects\JstlFmtPr\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+05-Aug-2019 14:32:49.358 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlFmtPr.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlFmtPr]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 14:32:49.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlFmtPr.xml] has finished in [31] ms
+05-Aug-2019 14:32:49.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlPr.xml]
+05-Aug-2019 14:32:49.374 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlPr]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@62b6b9cb]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\User\Documents\NetBeansProjects\JstlPr\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+05-Aug-2019 14:32:49.374 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlPr.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JstlPr]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 14:32:49.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\JstlPr.xml] has finished in [0] ms
+05-Aug-2019 14:32:49.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:32:50.045 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:32:50.092 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:32:50.139 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:50.467 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [1,093] ms
+05-Aug-2019 14:32:50.467 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Servlet.xml]
+05-Aug-2019 14:32:50.499 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Servlet.xml] has finished in [32] ms
+05-Aug-2019 14:32:50.499 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPr.xml]
+05-Aug-2019 14:32:50.561 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPr.xml] has finished in [62] ms
+05-Aug-2019 14:32:50.561 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPratice.xml]
+05-Aug-2019 14:32:50.701 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPratice.xml] has finished in [140] ms
+05-Aug-2019 14:32:50.702 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml]
+05-Aug-2019 14:32:50.727 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@4192882d]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Java\Documents\NetBeansProjects\SimpleJsps\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+05-Aug-2019 14:32:50.728 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 14:32:50.728 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml] has finished in [26] ms
+05-Aug-2019 14:32:50.733 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Stock.xml]
+05-Aug-2019 14:32:50.735 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Stock]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3ebfbc7b]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\User\Documents\NetBeansProjects\Stock\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+05-Aug-2019 14:32:50.735 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Stock.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Stock]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 14:32:50.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Stock.xml] has finished in [3] ms
+05-Aug-2019 14:32:50.736 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\TagPr.xml]
+05-Aug-2019 14:32:51.044 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:32:51.081 INFO [localhost-startStop-1] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 14:32:51.143 INFO [localhost-startStop-1] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:51.225 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\TagPr.xml] has finished in [489] ms
+05-Aug-2019 14:32:51.225 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml]
+05-Aug-2019 14:32:51.228 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/testJsp]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@6205c976]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Java\Documents\NetBeansProjects\testJsp\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+05-Aug-2019 14:32:51.229 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/testJsp]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 14:32:51.229 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml] has finished in [4] ms
+05-Aug-2019 14:32:51.231 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\docs]
+05-Aug-2019 14:32:51.301 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\docs] has finished in [71] ms
+05-Aug-2019 14:32:51.302 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\examples]
+05-Aug-2019 14:32:51.500 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\examples] has finished in [197] ms
+05-Aug-2019 14:32:51.500 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\host-manager]
+05-Aug-2019 14:32:51.530 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\host-manager] has finished in [30] ms
+05-Aug-2019 14:32:51.530 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\manager]
+05-Aug-2019 14:32:51.577 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\manager] has finished in [47] ms
+05-Aug-2019 14:32:51.578 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\ROOT]
+05-Aug-2019 14:32:51.591 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\ROOT] has finished in [13] ms
+05-Aug-2019 14:32:51.595 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Aug-2019 14:32:51.603 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+05-Aug-2019 14:32:51.605 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 6967 ms
+05-Aug-2019 14:32:58.990 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:32:59.029 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:32:59.319 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:32:59.366 INFO [http-nio-8080-exec-9] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:32:59.397 INFO [http-nio-8080-exec-9] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:32:59.663 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [634] ms
+05-Aug-2019 14:32:59.663 INFO [http-nio-8080-exec-1] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:33:01.365 WARNING [http-nio-8080-exec-8] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:34:07.802 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:34:07.802 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:34:08.082 INFO [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:34:08.160 INFO [http-nio-8080-exec-6] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:34:08.191 INFO [http-nio-8080-exec-6] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:34:08.457 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [655] ms
+05-Aug-2019 14:34:08.457 INFO [http-nio-8080-exec-6] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:34:09.285 WARNING [http-nio-8080-exec-19] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:35:11.458 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:35:11.458 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:35:11.739 INFO [http-nio-8080-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:35:11.771 INFO [http-nio-8080-exec-13] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:35:11.818 INFO [http-nio-8080-exec-13] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:35:12.055 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [597] ms
+05-Aug-2019 14:35:12.055 INFO [http-nio-8080-exec-19] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:35:12.667 WARNING [http-nio-8080-exec-15] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:35:37.206 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:35:37.216 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:35:37.457 INFO [http-nio-8080-exec-29] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:35:37.488 INFO [http-nio-8080-exec-29] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:35:37.535 INFO [http-nio-8080-exec-29] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:35:37.769 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [553] ms
+05-Aug-2019 14:35:37.769 INFO [http-nio-8080-exec-19] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:35:38.376 WARNING [http-nio-8080-exec-15] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:37:55.053 INFO [http-nio-8080-exec-26] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:37:55.062 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:37:55.311 INFO [http-nio-8080-exec-37] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:37:55.358 INFO [http-nio-8080-exec-37] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:37:55.390 INFO [http-nio-8080-exec-37] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:37:55.624 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [562] ms
+05-Aug-2019 14:37:55.624 INFO [http-nio-8080-exec-38] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:37:56.191 WARNING [http-nio-8080-exec-31] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:38:33.392 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:38:33.392 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:38:33.641 INFO [http-nio-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:38:33.688 INFO [http-nio-8080-exec-40] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:38:33.719 INFO [http-nio-8080-exec-40] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:38:33.954 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [562] ms
+05-Aug-2019 14:38:33.954 INFO [http-nio-8080-exec-38] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:38:34.483 WARNING [http-nio-8080-exec-35] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:39:06.923 INFO [http-nio-8080-exec-35] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:39:06.923 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:39:07.157 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:39:07.204 INFO [http-nio-8080-exec-38] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:39:07.235 INFO [http-nio-8080-exec-38] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:39:07.485 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [562] ms
+05-Aug-2019 14:39:07.485 INFO [http-nio-8080-exec-39] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:39:07.994 WARNING [http-nio-8080-exec-31] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:41:10.598 INFO [http-nio-8080-exec-52] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:41:10.598 INFO [http-nio-8080-exec-49] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:41:10.848 INFO [http-nio-8080-exec-49] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:41:10.880 INFO [http-nio-8080-exec-49] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:41:10.911 INFO [http-nio-8080-exec-49] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:41:11.145 INFO [http-nio-8080-exec-49] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [547] ms
+05-Aug-2019 14:41:11.145 INFO [http-nio-8080-exec-51] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:41:11.647 WARNING [http-nio-8080-exec-48] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:41:13.225 WARNING [http-nio-8080-exec-47] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 14:42:22.375 INFO [http-nio-8080-exec-62] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:42:22.375 INFO [http-nio-8080-exec-59] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:42:22.656 INFO [http-nio-8080-exec-59] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:42:22.703 INFO [http-nio-8080-exec-59] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:42:22.734 INFO [http-nio-8080-exec-59] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:42:22.953 INFO [http-nio-8080-exec-59] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [578] ms
+05-Aug-2019 14:42:22.968 INFO [http-nio-8080-exec-58] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:42:23.452 WARNING [http-nio-8080-exec-48] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:42:25.329 WARNING [http-nio-8080-exec-63] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 14:43:03.517 INFO [http-nio-8080-exec-67] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:43:03.517 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:43:03.766 INFO [http-nio-8080-exec-66] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:43:03.798 INFO [http-nio-8080-exec-66] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:43:03.829 INFO [http-nio-8080-exec-66] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:43:04.065 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [548] ms
+05-Aug-2019 14:43:04.067 INFO [http-nio-8080-exec-56] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:43:04.504 WARNING [http-nio-8080-exec-60] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:43:06.064 WARNING [http-nio-8080-exec-65] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 14:43:15.577 WARNING [http-nio-8080-exec-71] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 14:44:26.716 INFO [http-nio-8080-exec-74] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:44:26.716 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:44:26.965 INFO [http-nio-8080-exec-76] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:44:26.997 INFO [http-nio-8080-exec-76] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:44:27.059 INFO [http-nio-8080-exec-76] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:44:27.278 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [562] ms
+05-Aug-2019 14:44:27.278 INFO [http-nio-8080-exec-72] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:44:27.747 WARNING [http-nio-8080-exec-79] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:44:38.457 INFO [http-nio-8080-exec-73] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:44:38.457 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:44:38.691 INFO [http-nio-8080-exec-76] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:44:38.723 INFO [http-nio-8080-exec-76] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:44:38.769 INFO [http-nio-8080-exec-76] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:44:39.082 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [625] ms
+05-Aug-2019 14:44:39.082 INFO [http-nio-8080-exec-72] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:44:39.527 WARNING [http-nio-8080-exec-71] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:44:40.785 WARNING [http-nio-8080-exec-82] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 14:45:06.384 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:45:06.384 INFO [http-nio-8080-exec-83] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:45:06.618 INFO [http-nio-8080-exec-83] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:45:06.649 INFO [http-nio-8080-exec-83] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:45:06.696 INFO [http-nio-8080-exec-83] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:45:06.915 INFO [http-nio-8080-exec-83] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 14:45:06.915 INFO [http-nio-8080-exec-89] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:45:07.356 WARNING [http-nio-8080-exec-86] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:45:08.663 WARNING [http-nio-8080-exec-77] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 14:49:25.364 INFO [http-nio-8080-exec-91] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:49:25.364 INFO [http-nio-8080-exec-97] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:49:25.598 INFO [http-nio-8080-exec-97] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:49:25.645 INFO [http-nio-8080-exec-97] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:49:25.677 INFO [http-nio-8080-exec-97] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:49:25.895 INFO [http-nio-8080-exec-97] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 14:49:25.911 INFO [http-nio-8080-exec-99] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:49:26.369 WARNING [http-nio-8080-exec-92] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:50:05.125 INFO [http-nio-8080-exec-104] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:50:05.125 INFO [http-nio-8080-exec-101] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:50:05.359 INFO [http-nio-8080-exec-101] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:50:05.390 INFO [http-nio-8080-exec-101] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:50:05.437 INFO [http-nio-8080-exec-101] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:50:05.656 INFO [http-nio-8080-exec-101] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 14:50:05.656 INFO [http-nio-8080-exec-103] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:50:06.058 WARNING [http-nio-8080-exec-99] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:51:48.205 INFO [http-nio-8080-exec-99] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:51:48.205 INFO [http-nio-8080-exec-102] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:51:48.439 INFO [http-nio-8080-exec-102] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:51:48.486 INFO [http-nio-8080-exec-102] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:51:48.517 INFO [http-nio-8080-exec-102] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:51:48.736 INFO [http-nio-8080-exec-102] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 14:51:48.752 INFO [http-nio-8080-exec-105] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:51:49.228 WARNING [http-nio-8080-exec-98] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:53:32.736 INFO [http-nio-8080-exec-113] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 14:53:32.736 INFO [http-nio-8080-exec-105] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 14:53:32.986 INFO [http-nio-8080-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 14:53:33.017 INFO [http-nio-8080-exec-105] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 14:53:33.049 INFO [http-nio-8080-exec-105] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 14:53:33.267 INFO [http-nio-8080-exec-105] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 14:53:33.283 INFO [http-nio-8080-exec-106] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 14:53:33.734 WARNING [http-nio-8080-exec-115] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 14:53:36.285 WARNING [http-nio-8080-exec-116] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:03:50.061 INFO [http-nio-8080-exec-122] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:03:50.069 INFO [http-nio-8080-exec-123] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:03:50.305 INFO [http-nio-8080-exec-123] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:03:50.352 INFO [http-nio-8080-exec-123] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:03:50.383 INFO [http-nio-8080-exec-123] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:03:50.605 INFO [http-nio-8080-exec-123] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [536] ms
+05-Aug-2019 15:03:50.620 INFO [http-nio-8080-exec-124] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:03:51.046 WARNING [http-nio-8080-exec-125] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:04:03.117 WARNING [http-nio-8080-exec-128] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:06:53.389 INFO [http-nio-8080-exec-130] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:06:53.399 INFO [http-nio-8080-exec-135] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:06:53.640 INFO [http-nio-8080-exec-135] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:06:53.678 INFO [http-nio-8080-exec-135] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:06:53.716 INFO [http-nio-8080-exec-135] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:06:53.942 INFO [http-nio-8080-exec-135] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [543] ms
+05-Aug-2019 15:06:53.944 INFO [http-nio-8080-exec-132] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:06:54.403 WARNING [http-nio-8080-exec-131] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:07:49.492 INFO [http-nio-8080-exec-132] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:07:49.502 INFO [http-nio-8080-exec-128] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:07:49.777 INFO [http-nio-8080-exec-128] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:07:49.825 INFO [http-nio-8080-exec-128] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:07:49.870 INFO [http-nio-8080-exec-128] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:07:50.121 INFO [http-nio-8080-exec-128] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [619] ms
+05-Aug-2019 15:07:50.124 INFO [http-nio-8080-exec-141] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:07:50.627 WARNING [http-nio-8080-exec-129] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:09:15.373 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:09:15.380 INFO [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:09:15.623 INFO [http-nio-8080-exec-144] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:09:15.660 INFO [http-nio-8080-exec-144] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:09:15.695 INFO [http-nio-8080-exec-144] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:09:15.930 INFO [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [549] ms
+05-Aug-2019 15:09:15.936 INFO [190] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:09:16.437 WARNING [http-nio-8080-exec-148] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:09:23.851 WARNING [http-nio-8080-exec-149] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:09:36.398 WARNING [http-nio-8080-exec-151] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:10:57.052 INFO [http-nio-8080-exec-151] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:10:57.060 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:10:57.300 INFO [http-nio-8080-exec-146] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:10:57.339 INFO [http-nio-8080-exec-146] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:10:57.401 INFO [http-nio-8080-exec-146] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:10:57.630 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [570] ms
+05-Aug-2019 15:10:57.633 INFO [http-nio-8080-exec-154] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:10:58.069 WARNING [http-nio-8080-exec-152] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:11:47.260 INFO [http-nio-8080-exec-154] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:11:47.267 INFO [http-nio-8080-exec-151] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:11:47.505 INFO [http-nio-8080-exec-151] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:11:47.541 INFO [http-nio-8080-exec-151] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:11:47.577 INFO [http-nio-8080-exec-151] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:11:47.800 INFO [http-nio-8080-exec-151] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [533] ms
+05-Aug-2019 15:11:47.802 INFO [http-nio-8080-exec-163] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:11:48.210 WARNING [http-nio-8080-exec-156] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:11:51.766 WARNING [http-nio-8080-exec-162] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:15:10.777 INFO [http-nio-8080-exec-166] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:15:10.785 INFO [http-nio-8080-exec-171] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:15:11.046 INFO [http-nio-8080-exec-171] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:15:11.085 INFO [http-nio-8080-exec-171] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:15:11.123 INFO [http-nio-8080-exec-171] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:15:11.348 INFO [http-nio-8080-exec-171] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [563] ms
+05-Aug-2019 15:15:11.351 INFO [http-nio-8080-exec-165] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:15:11.741 WARNING [http-nio-8080-exec-168] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:15:21.888 INFO [http-nio-8080-exec-171] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:15:21.895 INFO [http-nio-8080-exec-177] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:15:22.138 INFO [http-nio-8080-exec-177] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:15:22.181 INFO [http-nio-8080-exec-177] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:15:22.224 INFO [http-nio-8080-exec-177] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:15:22.451 INFO [http-nio-8080-exec-177] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [556] ms
+05-Aug-2019 15:15:22.454 INFO [http-nio-8080-exec-172] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:15:22.883 WARNING [http-nio-8080-exec-170] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:16:42.631 WARNING [http-nio-8080-exec-179] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:16:49.808 WARNING [http-nio-8080-exec-182] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:20:12.343 INFO [http-nio-8080-exec-180] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:20:12.352 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:20:12.595 INFO [http-nio-8080-exec-179] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:20:12.632 INFO [http-nio-8080-exec-179] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:20:12.669 INFO [http-nio-8080-exec-179] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:20:12.892 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [540] ms
+05-Aug-2019 15:20:12.895 INFO [http-nio-8080-exec-184] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:20:13.289 WARNING [http-nio-8080-exec-186] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:20:32.894 INFO [http-nio-8080-exec-189] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:20:32.902 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:20:33.140 INFO [http-nio-8080-exec-179] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:20:33.182 INFO [http-nio-8080-exec-179] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:20:33.222 INFO [http-nio-8080-exec-179] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:20:33.468 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [566] ms
+05-Aug-2019 15:20:33.471 INFO [http-nio-8080-exec-184] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:20:33.887 WARNING [http-nio-8080-exec-186] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:20:51.305 WARNING [http-nio-8080-exec-192] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:21:04.974 INFO [http-nio-8080-exec-186] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:21:04.982 INFO [http-nio-8080-exec-192] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:21:05.231 INFO [http-nio-8080-exec-192] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:21:05.268 INFO [http-nio-8080-exec-192] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:21:05.306 INFO [http-nio-8080-exec-192] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:21:05.526 INFO [http-nio-8080-exec-192] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [544] ms
+05-Aug-2019 15:21:05.528 INFO [http-nio-8080-exec-195] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:21:05.959 WARNING [http-nio-8080-exec-187] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:21:33.554 INFO [http-nio-8080-exec-197] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:21:33.554 INFO [http-nio-8080-exec-202] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:21:33.820 INFO [http-nio-8080-exec-202] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:21:33.851 INFO [http-nio-8080-exec-202] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:21:33.898 INFO [http-nio-8080-exec-202] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:21:34.117 INFO [http-nio-8080-exec-202] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [563] ms
+05-Aug-2019 15:21:34.117 INFO [http-nio-8080-exec-191] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:21:34.550 WARNING [http-nio-8080-exec-201] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:21:59.574 INFO [http-nio-8080-exec-206] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:21:59.574 INFO [http-nio-8080-exec-204] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:21:59.808 INFO [http-nio-8080-exec-204] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:21:59.839 INFO [http-nio-8080-exec-204] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:21:59.886 INFO [http-nio-8080-exec-204] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:22:00.105 INFO [http-nio-8080-exec-204] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 15:22:00.105 INFO [http-nio-8080-exec-191] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:22:00.554 WARNING [http-nio-8080-exec-201] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:23:43.310 INFO [http-nio-8080-exec-193] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:23:43.310 INFO [http-nio-8080-exec-211] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:23:43.560 INFO [http-nio-8080-exec-211] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:23:43.591 INFO [http-nio-8080-exec-211] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:23:43.622 INFO [http-nio-8080-exec-211] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:23:43.857 INFO [http-nio-8080-exec-211] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [547] ms
+05-Aug-2019 15:23:43.857 INFO [http-nio-8080-exec-210] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:23:44.359 WARNING [http-nio-8080-exec-201] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:24:02.325 WARNING [http-nio-8080-exec-213] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:24:06.046 WARNING [http-nio-8080-exec-215] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:25:54.015 1100 [http-nio-8080-exec-216] com.sun.faces.context.ExceptionHandlerImpl.log JSF1073: javax.faces.application.ViewExpiredException caught during processing of RESTORE_VIEW 1 : UIComponent-ClientId=, Message=viewId:/addInfo.jsp - View /addInfo.jsp could not be restored.
+05-Aug-2019 15:25:54.015 1100 [http-nio-8080-exec-216] com.sun.faces.context.ExceptionHandlerImpl.log viewId:/addInfo.jsp - View /addInfo.jsp could not be restored.
+	javax.faces.application.ViewExpiredException: viewId:/addInfo.jsp - View /addInfo.jsp could not be restored.
+		at com.sun.faces.lifecycle.RestoreViewPhase.execute(RestoreViewPhase.java:210)
+		at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:101)
+		at com.sun.faces.lifecycle.RestoreViewPhase.doPhase(RestoreViewPhase.java:121)
+		at com.sun.faces.lifecycle.LifecycleImpl.execute(LifecycleImpl.java:198)
+		at javax.faces.webapp.FacesServlet.service(FacesServlet.java:646)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 15:26:40.148 INFO [http-nio-8080-exec-224] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:26:40.148 INFO [http-nio-8080-exec-219] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:26:40.413 INFO [http-nio-8080-exec-219] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:26:40.460 INFO [http-nio-8080-exec-219] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:26:40.507 INFO [http-nio-8080-exec-219] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:26:40.725 INFO [http-nio-8080-exec-219] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [577] ms
+05-Aug-2019 15:26:40.725 INFO [http-nio-8080-exec-215] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:26:41.133 WARNING [http-nio-8080-exec-221] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:26:50.837 WARNING [http-nio-8080-exec-218] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:26:52.015 WARNING [http-nio-8080-exec-225] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:28:03.538 INFO [http-nio-8080-exec-228] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] has started
+05-Aug-2019 15:28:03.803 INFO [http-nio-8080-exec-228] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:28:03.850 INFO [http-nio-8080-exec-228] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:28:03.913 INFO [http-nio-8080-exec-228] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:28:04.209 INFO [http-nio-8080-exec-228] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] is completed
+05-Aug-2019 15:28:05.176 INFO [http-nio-8080-exec-227] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:28:05.176 INFO [http-nio-8080-exec-231] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:28:05.410 INFO [http-nio-8080-exec-231] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:28:05.550 INFO [http-nio-8080-exec-231] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:28:05.597 INFO [http-nio-8080-exec-231] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:28:05.800 INFO [http-nio-8080-exec-231] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [624] ms
+05-Aug-2019 15:28:05.800 INFO [http-nio-8080-exec-232] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:28:06.232 WARNING [http-nio-8080-exec-235] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:34:17.152 INFO [http-nio-8080-exec-241] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:34:17.152 INFO [http-nio-8080-exec-238] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:34:17.386 INFO [http-nio-8080-exec-238] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:34:17.417 INFO [http-nio-8080-exec-238] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:34:17.464 INFO [http-nio-8080-exec-238] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:34:17.667 INFO [http-nio-8080-exec-238] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [515] ms
+05-Aug-2019 15:34:17.683 INFO [http-nio-8080-exec-240] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:34:18.131 WARNING [http-nio-8080-exec-236] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:34:42.501 INFO [http-nio-8080-exec-250] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] has started
+05-Aug-2019 15:34:42.735 INFO [http-nio-8080-exec-250] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:34:42.798 INFO [http-nio-8080-exec-250] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:34:42.844 INFO [http-nio-8080-exec-250] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:34:43.110 INFO [http-nio-8080-exec-250] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] is completed
+05-Aug-2019 15:35:42.302 INFO [http-nio-8080-exec-240] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:35:42.302 INFO [http-nio-8080-exec-237] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:35:42.552 INFO [http-nio-8080-exec-237] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:35:42.583 INFO [http-nio-8080-exec-237] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:35:42.614 INFO [http-nio-8080-exec-237] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:35:42.833 INFO [http-nio-8080-exec-237] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 15:35:42.833 INFO [http-nio-8080-exec-249] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:35:43.232 WARNING [http-nio-8080-exec-248] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:36:18.082 INFO [http-nio-8080-exec-249] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 15:36:18.082 INFO [http-nio-8080-exec-254] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 15:36:18.316 INFO [http-nio-8080-exec-254] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:36:18.347 INFO [http-nio-8080-exec-254] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 15:36:18.394 INFO [http-nio-8080-exec-254] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:36:18.613 INFO [http-nio-8080-exec-254] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 15:36:18.628 INFO [http-nio-8080-exec-256] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 15:36:19.004 WARNING [http-nio-8080-exec-255] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 15:36:53.119 WARNING [http-nio-8080-exec-255] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:36:54.429 WARNING [http-nio-8080-exec-248] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 15:59:50.355 INFO [http-nio-8080-exec-260] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Fromjsf] has started
+05-Aug-2019 15:59:50.839 INFO [http-nio-8080-exec-260] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:59:50.886 INFO [http-nio-8080-exec-260] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Fromjsf'
+05-Aug-2019 15:59:50.949 INFO [http-nio-8080-exec-260] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:59:51.183 INFO [http-nio-8080-exec-260] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Fromjsf] is completed
+05-Aug-2019 15:59:51.199 INFO [http-nio-8080-exec-266] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Fromjsf] has started
+05-Aug-2019 15:59:51.480 INFO [http-nio-8080-exec-266] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 15:59:51.511 INFO [http-nio-8080-exec-266] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Fromjsf'
+05-Aug-2019 15:59:51.558 INFO [http-nio-8080-exec-266] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 15:59:51.777 INFO [http-nio-8080-exec-266] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Fromjsf] is completed
+05-Aug-2019 16:07:34.865 INFO [http-nio-8080-exec-276] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:07:34.865 INFO [http-nio-8080-exec-268] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:07:35.115 INFO [http-nio-8080-exec-268] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:07:35.146 INFO [http-nio-8080-exec-268] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:07:35.177 INFO [http-nio-8080-exec-268] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:07:35.396 INFO [http-nio-8080-exec-268] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 16:07:35.396 INFO [http-nio-8080-exec-273] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:07:35.784 WARNING [http-nio-8080-exec-269] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:09:23.649 INFO [http-nio-8080-exec-258] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:09:23.649 INFO [http-nio-8080-exec-279] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:09:23.899 INFO [http-nio-8080-exec-279] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:09:23.930 INFO [http-nio-8080-exec-279] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:09:23.961 INFO [http-nio-8080-exec-279] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:09:24.180 INFO [http-nio-8080-exec-279] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [531] ms
+05-Aug-2019 16:09:24.180 INFO [http-nio-8080-exec-269] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:09:24.572 WARNING [http-nio-8080-exec-274] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:09:56.378 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Fromjsf]
+05-Aug-2019 16:09:56.378 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.config.ConfigureListener.contextDestroyed Unexpected exception when attempting to tear down the Mojarra runtime
+	java.lang.IllegalStateException: java.io.FileNotFoundException: D:\1248515\javaServerSide\Fromjsf\build\web\WEB-INF\lib\javax.faces.jar (The system cannot find the path specified)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:257)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:281)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:216)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:225)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2285)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:859)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1333)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1185)
+		at com.sun.faces.config.ConfigureListener.contextDestroyed(ConfigureListener.java:323)
+		at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:4815)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5474)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:226)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:845)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1427)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1354)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1613)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1170)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1392)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1364)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: D:\1248515\javaServerSide\Fromjsf\build\web\WEB-INF\lib\javax.faces.jar (The system cannot find the path specified)
+		at java.util.zip.ZipFile.open(Native Method)
+		at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+		at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+		at java.util.jar.JarFile.<init>(JarFile.java:166)
+		at java.util.jar.JarFile.<init>(JarFile.java:130)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:196)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:181)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:308)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 24 more
+05-Aug-2019 16:09:56.378 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] javax.faces.FactoryFinder.releaseFactories Unable to invoke @PreDestroy annotated methods on com.sun.faces.facelets.tag.jsf.TagHandlerDelegateFactoryImpl@4073112b.
+	java.lang.IllegalStateException: java.io.FileNotFoundException: D:\1248515\javaServerSide\Fromjsf\build\web\WEB-INF\lib\javax.faces.jar (The system cannot find the path specified)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:257)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:281)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:62)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:216)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:225)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2285)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:859)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1333)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1185)
+		at java.lang.Class.getDeclaredMethods0(Native Method)
+		at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+		at java.lang.Class.getDeclaredMethods(Class.java:1975)
+		at com.sun.faces.vendor.WebContainerInjectionProvider.getAnnotatedMethod(WebContainerInjectionProvider.java:163)
+		at com.sun.faces.vendor.WebContainerInjectionProvider.invokePreDestroy(WebContainerInjectionProvider.java:83)
+		at javax.faces.FactoryFinder.releaseFactories(FactoryFinder.java:442)
+		at com.sun.faces.config.ConfigManager.releaseFactories(ConfigManager.java:809)
+		at com.sun.faces.config.ConfigManager.destroy(ConfigManager.java:475)
+		at com.sun.faces.config.ConfigureListener.contextDestroyed(ConfigureListener.java:338)
+		at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:4815)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5474)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:226)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:845)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1427)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1354)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1613)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1170)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1392)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1364)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: D:\1248515\javaServerSide\Fromjsf\build\web\WEB-INF\lib\javax.faces.jar (The system cannot find the path specified)
+		at java.util.zip.ZipFile.open(Native Method)
+		at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+		at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+		at java.util.jar.JarFile.<init>(JarFile.java:166)
+		at java.util.jar.JarFile.<init>(JarFile.java:130)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:196)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:181)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:308)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 32 more
+05-Aug-2019 16:09:56.706 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml]
+05-Aug-2019 16:09:56.706 SEVERE [localhost-startStop-2] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Fromjsf]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@7af1e0b3]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5020)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 10 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [D:\1248515\javaServerSide\Fromjsf\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 13 more
+05-Aug-2019 16:09:56.706 SEVERE [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml]
+	java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Fromjsf]]
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:744)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:624)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1833)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 16:09:56.706 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml] has finished in [0] ms
+05-Aug-2019 16:10:21.047 INFO [http-nio-8080-exec-282] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Fromjsf]
+05-Aug-2019 16:10:21.047 INFO [http-nio-8080-exec-272] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml]
+05-Aug-2019 16:10:21.327 INFO [http-nio-8080-exec-272] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:10:21.374 INFO [http-nio-8080-exec-272] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Fromjsf'
+05-Aug-2019 16:10:21.406 INFO [http-nio-8080-exec-272] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:10:21.624 INFO [http-nio-8080-exec-272] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Fromjsf.xml] has finished in [577] ms
+05-Aug-2019 16:10:21.640 INFO [http-nio-8080-exec-286] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Fromjsf]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:10:41.196 INFO [http-nio-8080-exec-290] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:10:41.196 INFO [http-nio-8080-exec-289] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:10:41.477 INFO [http-nio-8080-exec-289] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:10:41.523 INFO [http-nio-8080-exec-289] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:10:41.586 INFO [http-nio-8080-exec-289] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:10:41.820 INFO [http-nio-8080-exec-289] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [624] ms
+05-Aug-2019 16:10:41.836 INFO [http-nio-8080-exec-291] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:10:42.279 WARNING [http-nio-8080-exec-287] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:12:07.370 INFO [http-nio-8080-exec-298] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:12:07.370 INFO [http-nio-8080-exec-294] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:12:07.604 INFO [http-nio-8080-exec-294] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:12:07.651 INFO [http-nio-8080-exec-294] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:12:07.714 INFO [http-nio-8080-exec-294] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:12:07.933 INFO [http-nio-8080-exec-294] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [563] ms
+05-Aug-2019 16:12:07.933 INFO [http-nio-8080-exec-286] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:12:08.334 WARNING [http-nio-8080-exec-297] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:12:53.994 INFO [http-nio-8080-exec-301] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] has started
+05-Aug-2019 16:12:54.306 INFO [http-nio-8080-exec-301] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:12:54.353 INFO [http-nio-8080-exec-301] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:12:54.400 INFO [http-nio-8080-exec-301] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:12:54.634 INFO [http-nio-8080-exec-301] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] is completed
+05-Aug-2019 16:12:54.650 INFO [http-nio-8080-exec-293] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] has started
+05-Aug-2019 16:12:54.962 INFO [http-nio-8080-exec-293] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:12:55.009 INFO [http-nio-8080-exec-293] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:12:55.040 INFO [http-nio-8080-exec-293] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:12:55.306 INFO [http-nio-8080-exec-293] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Project1] is completed
+05-Aug-2019 16:16:57.901 INFO [http-nio-8080-exec-298] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:16:57.901 INFO [http-nio-8080-exec-308] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:16:58.166 INFO [http-nio-8080-exec-308] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:16:58.213 INFO [http-nio-8080-exec-308] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:16:58.245 INFO [http-nio-8080-exec-308] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:16:58.463 INFO [http-nio-8080-exec-308] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [562] ms
+05-Aug-2019 16:16:58.463 INFO [http-nio-8080-exec-305] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:16:58.889 WARNING [http-nio-8080-exec-307] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:21:13.003 INFO [http-nio-8080-exec-318] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:21:13.003 INFO [http-nio-8080-exec-320] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:21:13.284 INFO [http-nio-8080-exec-320] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:21:13.315 INFO [http-nio-8080-exec-320] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:21:13.346 INFO [http-nio-8080-exec-320] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:21:13.565 INFO [http-nio-8080-exec-320] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [562] ms
+05-Aug-2019 16:21:13.565 INFO [http-nio-8080-exec-314] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:21:14.009 WARNING [http-nio-8080-exec-315] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:21:18.750 WARNING [http-nio-8080-exec-316] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 16:21:19.964 WARNING [http-nio-8080-exec-314] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /information.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 16:39:49.561 INFO [http-nio-8080-exec-329] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:39:49.561 INFO [http-nio-8080-exec-330] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:39:49.858 INFO [http-nio-8080-exec-330] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:39:49.889 INFO [http-nio-8080-exec-330] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:39:49.920 INFO [http-nio-8080-exec-330] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:39:50.139 INFO [http-nio-8080-exec-330] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [578] ms
+05-Aug-2019 16:39:50.155 INFO [http-nio-8080-exec-324] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:39:50.573 WARNING [http-nio-8080-exec-323] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:40:44.273 INFO [http-nio-8080-exec-328] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Project1]
+05-Aug-2019 16:40:44.273 INFO [http-nio-8080-exec-333] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml]
+05-Aug-2019 16:40:44.570 INFO [http-nio-8080-exec-333] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:40:44.601 INFO [http-nio-8080-exec-333] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Mojarra 2.2.7 ( 20140610-1547 https://svn.java.net/svn/mojarra~svn/tags/2.2.7@13362) for context '/Project1'
+05-Aug-2019 16:40:44.632 INFO [http-nio-8080-exec-333] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:40:44.851 INFO [http-nio-8080-exec-333] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Project1.xml] has finished in [578] ms
+05-Aug-2019 16:40:44.851 INFO [http-nio-8080-exec-324] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Project1]] after start() had already been called. The second call will be ignored.
+05-Aug-2019 16:40:45.346 WARNING [http-nio-8080-exec-334] com.sun.faces.context.SessionMap.put JSF1063: WARNING! Setting non-serializable attribute value into HttpSession (key: employee, value class: Com.Emp.Info.EmployeeInfo).
+05-Aug-2019 16:40:46.387 WARNING [http-nio-8080-exec-327] com.sun.faces.context.ExternalContextImpl.getMimeType JSF1091: No mime type could be found for file /login.jsp.  To resolve this, add a mime-type mapping to the applications web.xml.
+05-Aug-2019 16:52:02.622 INFO [http-nio-8080-exec-341] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:52:02.653 INFO [http-nio-8080-exec-341] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 16:52:02.716 INFO [http-nio-8080-exec-341] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:52:03.497 INFO [http-nio-8080-exec-342] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:52:03.529 INFO [http-nio-8080-exec-342] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 16:52:03.607 INFO [http-nio-8080-exec-342] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:52:03.622 INFO [http-nio-8080-exec-342] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [java.lang.Object]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [java.lang.Object]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1384)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1372)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1224)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1185)
+		at com.sun.faces.application.ConverterPropertyEditorFactory$DisposableClassLoader.loadClass(ConverterPropertyEditorFactory.java:447)
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+		at java.lang.Class.getDeclaredConstructors0(Native Method)
+		at java.lang.Class.privateGetDeclaredConstructors(Class.java:2671)
+		at java.lang.Class.getConstructor0(Class.java:3075)
+		at java.lang.Class.newInstance(Class.java:412)
+		at com.sun.beans.finder.InstanceFinder.instantiate(InstanceFinder.java:96)
+		at com.sun.beans.finder.PropertyEditorFinder.find(PropertyEditorFinder.java:81)
+		at java.beans.PropertyEditorManager.findEditor(PropertyEditorManager.java:90)
+		at com.sun.faces.application.ApplicationImpl.addPropertyEditorIfNecessary(ApplicationImpl.java:690)
+		at com.sun.faces.application.ApplicationImpl.addConverter(ApplicationImpl.java:660)
+		at com.sun.faces.config.ConfigureListener.configure(ConfigureListener.java:727)
+		at com.sun.faces.config.ConfigureListener.configure(ConfigureListener.java:489)
+		at com.sun.faces.config.ConfigureListener.contextInitialized(ConfigureListener.java:381)
+		at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5236)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+05-Aug-2019 16:52:08.653 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/TagPr]
+05-Aug-2019 16:52:08.653 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 16:52:08.777 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:52:08.809 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 16:52:08.887 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:52:08.934 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 16:52:42.853 INFO [http-nio-8080-exec-352] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:52:42.885 INFO [http-nio-8080-exec-352] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 16:52:42.963 INFO [http-nio-8080-exec-352] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:52:44.156 INFO [http-nio-8080-exec-352] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:52:44.188 INFO [http-nio-8080-exec-352] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 16:52:44.250 INFO [http-nio-8080-exec-352] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:52:48.961 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/TagPr]
+05-Aug-2019 16:52:48.961 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 16:52:49.101 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 16:52:49.132 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 16:52:49.210 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 16:52:49.257 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 17:01:37.940 INFO [http-nio-8080-exec-357] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/TagPr]
+05-Aug-2019 17:01:37.940 INFO [http-nio-8080-exec-362] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\TagPr.xml]
+05-Aug-2019 17:01:38.080 WARNING [http-nio-8080-exec-362] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = agdb Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+05-Aug-2019 17:01:38.080 WARNING [http-nio-8080-exec-362] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = agdb Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+05-Aug-2019 17:01:38.111 INFO [http-nio-8080-exec-362] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:01:38.158 INFO [http-nio-8080-exec-362] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:01:38.221 INFO [http-nio-8080-exec-362] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:01:38.268 INFO [http-nio-8080-exec-362] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\TagPr.xml] has finished in [328] ms
+05-Aug-2019 17:13:09.012 INFO [http-nio-8080-exec-367] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 17:13:09.168 INFO [http-nio-8080-exec-367] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:13:09.199 INFO [http-nio-8080-exec-367] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:13:09.262 INFO [http-nio-8080-exec-367] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:13:09.340 INFO [http-nio-8080-exec-367] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 17:13:43.065 INFO [http-nio-8080-exec-375] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 17:13:43.206 INFO [http-nio-8080-exec-375] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:13:43.237 INFO [http-nio-8080-exec-375] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:13:43.315 INFO [http-nio-8080-exec-375] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:13:43.362 INFO [http-nio-8080-exec-375] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 17:13:44.894 INFO [http-nio-8080-exec-372] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/TagPr]
+05-Aug-2019 17:13:44.894 INFO [http-nio-8080-exec-373] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\TagPr.xml]
+05-Aug-2019 17:13:45.034 INFO [http-nio-8080-exec-373] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:13:45.065 INFO [http-nio-8080-exec-373] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:13:45.128 INFO [http-nio-8080-exec-373] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:13:45.175 INFO [http-nio-8080-exec-373] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\TagPr.xml] has finished in [281] ms
+05-Aug-2019 17:14:03.611 SEVERE [http-nio-8080-exec-368] com.std.inf.Student.submit null
+	java.sql.SQLException: Cannot load JDBC driver class 'com.mysql.jdbc.Driver'
+		at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createConnectionFactory(BasicDataSource.java:489)
+		at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:599)
+		at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:809)
+		at com.std.inf.Student.submit(Student.java:50)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.el.parser.AstValue.invoke(AstValue.java:247)
+		at org.apache.el.MethodExpressionImpl.invoke(MethodExpressionImpl.java:267)
+		at org.apache.jasper.el.JspMethodExpression.invoke(JspMethodExpression.java:74)
+		at javax.faces.component.MethodBindingMethodExpressionAdapter.invoke(MethodBindingMethodExpressionAdapter.java:77)
+		at com.sun.faces.application.ActionListenerImpl.processAction(ActionListenerImpl.java:91)
+		at javax.faces.component.UICommand.broadcast(UICommand.java:383)
+		at javax.faces.component.UIViewRoot.broadcastEvents(UIViewRoot.java:447)
+		at javax.faces.component.UIViewRoot.processApplication(UIViewRoot.java:752)
+		at com.sun.faces.lifecycle.InvokeApplicationPhase.execute(InvokeApplicationPhase.java:97)
+		at com.sun.faces.lifecycle.LifecycleImpl.phase(LifecycleImpl.java:251)
+		at com.sun.faces.lifecycle.LifecycleImpl.execute(LifecycleImpl.java:117)
+		at javax.faces.webapp.FacesServlet.service(FacesServlet.java:244)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1364)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1185)
+		at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createConnectionFactory(BasicDataSource.java:483)
+		... 41 more
+05-Aug-2019 17:14:40.320 INFO [http-nio-8080-exec-382] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 17:14:40.555 INFO [http-nio-8080-exec-382] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:14:40.602 INFO [http-nio-8080-exec-382] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:14:40.680 INFO [http-nio-8080-exec-382] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:14:40.742 INFO [http-nio-8080-exec-382] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 17:14:40.758 INFO [http-nio-8080-exec-378] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 17:14:40.961 INFO [http-nio-8080-exec-378] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:14:41.101 INFO [http-nio-8080-exec-378] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:14:41.180 INFO [http-nio-8080-exec-378] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:14:41.242 INFO [http-nio-8080-exec-378] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 17:14:44.361 INFO [http-nio-8080-exec-378] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 17:14:44.533 INFO [http-nio-8080-exec-378] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:14:44.580 INFO [http-nio-8080-exec-378] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:14:44.658 INFO [http-nio-8080-exec-378] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:14:44.705 INFO [http-nio-8080-exec-378] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 17:45:28.428 WARNING [http-nio-8080-exec-386] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [TagPr] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+05-Aug-2019 17:45:28.615 INFO [http-nio-8080-exec-387] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:45:28.647 INFO [http-nio-8080-exec-387] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:45:28.709 INFO [http-nio-8080-exec-387] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:45:29.830 INFO [http-nio-8080-exec-393] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:45:29.877 INFO [http-nio-8080-exec-393] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:45:29.955 INFO [http-nio-8080-exec-393] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:45:31.506 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/TagPr]
+05-Aug-2019 17:45:31.506 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] has started
+05-Aug-2019 17:45:31.694 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Aug-2019 17:45:31.725 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.config.ConfigureListener.contextInitialized Initializing Sun's JavaServer Faces implementation (1.2_04-b20-p03) for context '/TagPr'
+05-Aug-2019 17:45:31.803 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy annotations present.  ManagedBeans methods marked with these annotations will have said annotations processed.
+05-Aug-2019 17:45:31.850 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/TagPr] is completed
+05-Aug-2019 19:20:36.563 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Aug-2019 19:20:36.563 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Aug-2019 19:20:36.636 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+05-Aug-2019 19:20:36.676 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Aug-2019 19:20:36.707 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Aug-2019 19:20:36.707 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+05-Aug-2019 19:20:36.707 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Aug-2019 19:20:36.707 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

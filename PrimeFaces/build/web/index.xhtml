@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Form</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"></link>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  
+              <style>
+                body{
+                    background-image: url("resource/img/wall.jpg");
+                   
+                }
+                #shado{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 18px #888888;
+                }
+            </style>
+    </h:head>
+    <h:body>
+             <center>
+ 
+<p:breadCrumb>
+                        <p:menuitem value="Homepage" url="http://www.primefaces.org" icon="pi pi-home"/>
+                        <p:menuitem style="color: white" value="Categories" url="#" />
+                        <p:menuitem value="SignIn" url="#" />
+                        <p:menuitem value="Signup" url="#" />
+                        <p:menuitem value="Attendence" url="#" />
+                        <p:menuitem value="PayRoll" url="#" />
+                        <p:menuitem value="L.A. Lakers" url="#" />
+                        <p:menuitem value="Roster" url="#" />
+                        <p:menuitem value="Kobe Bryant" url="#" />
+
+
+                    </p:breadCrumb>
+        <div id ="shado" style="text-align: center;height:400px;width:450px;margin: 20px; padding: 60px; border: 2px solid black" >
+        
+ 
+  <h:form>  
+      <table>
+          <tr>
+              <td><h:outputLabel for="id"> ID</h:outputLabel></td>
+              <td><h:inputText id="id" value="#{payRoll.name}"/></td>
+          </tr>
+          <tr>
+              <td><h:outputLabel for="name"> Name</h:outputLabel></td>
+              <td><h:inputText id="name" value="#{payRoll.name}"/></td>
+          </tr>
+                    <tr>
+              <td><h:outputLabel for="basicSalary"> Basic Salary</h:outputLabel></td>
+              <td><h:inputText id="basicSalary" value="#{payRoll.basicSalary}"/></td>
+          </tr>
+                    <tr>
+              <td><h:outputLabel for="overTime"> Over Time</h:outputLabel></td>
+              <td><h:inputText id="overTime" value="#{payRoll.overTime}"/></td>
+          </tr>
+                    <tr>
+              <td><h:outputLabel for="leave"> Leave</h:outputLabel></td>
+              <td><h:inputText id="leave" value="#{payRoll.leave}"/></td>
+          </tr>
+                    <tr>
+              <td><h:outputLabel for="late"> Late</h:outputLabel></td>
+              <td><h:inputText id="late" value="#{payRoll.late}"/></td>
+          </tr>
+                    <tr>
+              <td><h:outputLabel for="bonus"> Bonus</h:outputLabel></td>
+              <td><h:inputText id="bonus" value="#{payRoll.id}"/></td>
+          </tr>
+                    <tr>
+              <td><h:outputLabel for="insuranceCost">Insurance Cost</h:outputLabel></td>
+              <td><h:inputText id="insuranceCost" value="#{payRoll.insuranceCost}"/></td>
+          </tr>
+                              <tr>
+              <td><h:outputLabel for="tax">Tax</h:outputLabel></td>
+              <td><h:inputText id="tax" value="#{payRoll.tax}"/></td>
+          </tr>
+                              <tr>
+              <td><h:outputLabel for="vat">Vat</h:outputLabel></td>
+              <td><h:inputText id="vat" value="#{payRoll.vat}"/></td>
+          </tr>
+                              <tr>
+              <td><h:outputLabel for="maitenance">Maintenance</h:outputLabel></td>
+              <td><h:inputText id="maitenance" value="#{payRoll.maitenance}"/></td>
+          </tr>
+                              <tr>
+              <td><h:outputLabel for="totalSalary">Total Salary</h:outputLabel></td>
+              <td><h:inputText id="totalSalary" value="#{payRoll.totalSalary}"/></td>
+          </tr>
+          
+      </table>
+
+      <h:commandButton id="submit-button" value="Submit" action="#{payRoll.submit()}"/>  
+      <h:commandButton  value="Back" action="#{payRoll.back()}"/>  
+      
+</h:form>
+           
+      </div>
+                  </center>
+    </h:body>
+</html>
+

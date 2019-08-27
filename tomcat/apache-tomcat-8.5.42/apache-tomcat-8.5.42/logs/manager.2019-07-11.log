@@ -1,0 +1,699 @@
+11-Jul-2019 15:16:31.478 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+11-Jul-2019 15:16:31.478 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+11-Jul-2019 16:07:38.307 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:07:38.385 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:07:38.432 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context5510355013413614538.xml'
+11-Jul-2019 16:07:38.494 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/Add'
+11-Jul-2019 16:09:00.223 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:01.754 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:01.754 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:40.993 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:40.993 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:09:41.988 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:41.988 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:42.004 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:09:51.850 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:51.866 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:09:52.822 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:52.838 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:09:52.838 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:10:07.908 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:10:07.923 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:12:46.066 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:12:46.082 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:12:47.194 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:12:47.194 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:12:47.194 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:23:42.600 INFO [http-nio-8080-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:23:42.617 INFO [http-nio-8080-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:23:42.621 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:23:43.054 INFO [http-nio-8080-exec-32] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:23:43.054 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:23:43.054 INFO [http-nio-8080-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:25:52.011 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:25:52.026 INFO [http-nio-8080-exec-36] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:25:52.715 INFO [http-nio-8080-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:25:52.731 INFO [http-nio-8080-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:25:52.731 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:27:11.147 INFO [http-nio-8080-exec-46] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:27:11.153 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:27:32.000 INFO [http-nio-8080-exec-46] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:27:32.016 INFO [http-nio-8080-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:27:32.016 INFO [http-nio-8080-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:28:22.399 INFO [http-nio-8080-exec-46] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:28:22.406 INFO [http-nio-8080-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:28:23.720 INFO [http-nio-8080-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:28:23.722 INFO [http-nio-8080-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:28:23.733 INFO [http-nio-8080-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Servlet'
+11-Jul-2019 16:33:02.788 INFO [http-nio-8080-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:33:02.804 INFO [http-nio-8080-exec-56] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:33:03.910 INFO [http-nio-8080-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:33:03.910 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:33:03.926 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 16:33:19.352 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:33:44.112 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:33:44.114 INFO [http-nio-8080-exec-59] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 16:33:44.122 INFO [http-nio-8080-exec-63] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 17:01:08.790 INFO [http-nio-8080-exec-71] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:08:12.510 INFO [http-nio-8080-exec-74] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:08:12.510 INFO [http-nio-8080-exec-75] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/Add'
+11-Jul-2019 17:08:12.588 INFO [http-nio-8080-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:08:12.588 INFO [http-nio-8080-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:09:53.691 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:09:53.691 INFO [http-nio-8080-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:10:26.857 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:12:01.550 INFO [http-nio-8080-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:13:48.350 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:13:48.350 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:15:00.906 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:15:00.906 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:17:46.054 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:17:47.073 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:17:47.073 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:19:06.973 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:19:06.988 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:19:30.851 INFO [http-nio-8080-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:19:30.851 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:20:33.945 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:20:33.945 INFO [http-nio-8080-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:21:29.346 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:21:48.534 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:21:51.495 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:21:52.841 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:21:52.841 INFO [http-nio-8080-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:22:12.428 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:22:13.684 INFO [http-nio-8080-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:22:13.684 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:23:44.478 INFO [http-nio-8080-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:23:46.064 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:23:46.064 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:24:13.704 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:24:51.909 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:24:51.909 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:25:41.866 INFO [http-nio-8080-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:25:41.866 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:26:45.901 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:26:48.335 INFO [http-nio-8080-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:26:48.336 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:27:24.003 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:27:25.910 INFO [http-nio-8080-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:27:25.910 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:27:33.898 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:27:33.898 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:30:24.861 INFO [http-nio-8080-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:30:25.922 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:30:25.922 INFO [http-nio-8080-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:30:57.448 INFO [http-nio-8080-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:30:58.779 INFO [http-nio-8080-exec-86] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:30:58.794 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:31:50.145 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:31:51.210 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:31:51.210 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:34:56.513 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:34:58.000 INFO [http-nio-8080-exec-84] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 17:34:58.000 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:00:27.694 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:00:27.709 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:11:30.300 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:11:30.464 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:11:30.466 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:13:11.312 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:13:11.313 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:13:44.100 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:13:44.884 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:13:44.885 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:14:53.814 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:16:42.655 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:16:43.594 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:16:43.594 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:35:52.449 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:35:52.454 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:35:52.466 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:36:09.130 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:36:48.340 INFO [http-nio-8080-exec-82] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:36:56.936 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:37:40.729 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:37:40.734 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:37:40.739 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:37:47.312 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:41:33.783 INFO [http-nio-8080-exec-95] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:41:33.788 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:41:33.794 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:42:27.514 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:42:27.520 INFO [http-nio-8080-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:42:27.525 INFO [http-nio-8080-exec-95] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:43:06.328 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:43:30.421 INFO [http-nio-8080-exec-97] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:43:30.426 INFO [http-nio-8080-exec-99] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:43:30.434 INFO [http-nio-8080-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:44:31.691 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:44:31.695 INFO [http-nio-8080-exec-99] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:44:31.701 INFO [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:44:31.708 SEVERE [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:44:33.605 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:44:33.607 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:44:33.616 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:44:33.620 INFO [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:44:33.626 SEVERE [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:45:11.002 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:45:11.006 INFO [http-nio-8080-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:45:11.016 INFO [http-nio-8080-exec-80] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleJsps'
+11-Jul-2019 18:45:11.533 INFO [http-nio-8080-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context8544918982770674141.xml'
+11-Jul-2019 18:45:12.939 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:45:12.941 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:45:12.949 INFO [http-nio-8080-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:45:12.955 INFO [http-nio-8080-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:45:12.960 SEVERE [http-nio-8080-exec-103] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:46:30.626 INFO [http-nio-8080-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:46:30.627 INFO [http-nio-8080-exec-104] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:46:30.634 INFO [http-nio-8080-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:46:30.639 INFO [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:46:30.647 SEVERE [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:46:49.172 INFO [http-nio-8080-exec-91] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:46:49.175 INFO [http-nio-8080-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:46:49.181 INFO [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleJsps'
+11-Jul-2019 18:46:49.689 INFO [http-nio-8080-exec-109] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context7933769756836085580.xml'
+11-Jul-2019 18:46:49.705 INFO [http-nio-8080-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:46:51.061 INFO [http-nio-8080-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:46:51.063 INFO [http-nio-8080-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:46:51.072 INFO [http-nio-8080-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:46:51.077 INFO [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:47:32.821 INFO [http-nio-8080-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:47:32.825 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:47:32.834 INFO [http-nio-8080-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:47:32.841 SEVERE [http-nio-8080-exec-114] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:47:35.500 INFO [http-nio-8080-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:47:35.502 INFO [http-nio-8080-exec-88] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:47:35.510 INFO [http-nio-8080-exec-100] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:47:35.514 INFO [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:47:35.518 SEVERE [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:48:04.134 INFO [http-nio-8080-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:48:04.137 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:48:04.142 INFO [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleJsps'
+11-Jul-2019 18:48:04.652 INFO [http-nio-8080-exec-118] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context2468495119897945795.xml'
+11-Jul-2019 18:48:04.667 INFO [http-nio-8080-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:48:07.753 INFO [http-nio-8080-exec-113] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:48:07.755 INFO [http-nio-8080-exec-112] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:48:07.762 INFO [http-nio-8080-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:48:07.776 INFO [http-nio-8080-exec-107] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:48:29.630 INFO [http-nio-8080-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:48:29.637 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:48:29.646 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:49:07.091 INFO [http-nio-8080-exec-120] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:49:07.096 INFO [http-nio-8080-exec-117] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:49:07.104 INFO [http-nio-8080-exec-125] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:49:27.854 INFO [http-nio-8080-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:49:27.856 INFO [http-nio-8080-exec-110] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:49:27.865 INFO [http-nio-8080-exec-123] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:49:27.876 INFO [http-nio-8080-exec-121] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:49:51.346 INFO [http-nio-8080-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:49:51.350 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:49:51.357 INFO [http-nio-8080-exec-128] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:49:51.364 SEVERE [http-nio-8080-exec-128] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:49:53.312 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:49:53.314 INFO [http-nio-8080-exec-129] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:49:53.322 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:49:53.327 INFO [http-nio-8080-exec-128] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:49:53.331 SEVERE [http-nio-8080-exec-128] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests.jsp] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:50:10.606 INFO [http-nio-8080-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:10.610 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:10.616 INFO [http-nio-8080-exec-133] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleJsps'
+11-Jul-2019 18:50:11.127 INFO [http-nio-8080-exec-132] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context811589279066076698.xml'
+11-Jul-2019 18:50:12.087 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:12.089 INFO [http-nio-8080-exec-129] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:12.097 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:50:12.101 INFO [http-nio-8080-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:50:12.106 SEVERE [http-nio-8080-exec-130] org.apache.catalina.core.ApplicationContext.log FAIL - Application at context path [/SimpleJsps] could not be started
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SimpleJsps]]
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+		at org.apache.catalina.manager.ManagerServlet.start(ManagerServlet.java:1383)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:373)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:808)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: Invalid <url-pattern> [tests] in servlet mapping
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3213)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1429)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1156)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:769)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5134)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+		... 31 more
+11-Jul-2019 18:50:26.632 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:26.634 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:26.641 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleJsps'
+11-Jul-2019 18:50:27.150 INFO [http-nio-8080-exec-132] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context2491345524298372813.xml'
+11-Jul-2019 18:50:27.165 INFO [http-nio-8080-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:50:27.541 INFO [http-nio-8080-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:27.542 INFO [http-nio-8080-exec-136] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:27.550 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:50:27.555 INFO [http-nio-8080-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:50:44.494 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:44.498 INFO [http-nio-8080-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:50:44.505 INFO [http-nio-8080-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:50:50.805 INFO [http-nio-8080-exec-130] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:50.807 INFO [http-nio-8080-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:50:50.815 INFO [http-nio-8080-exec-142] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:50:50.820 INFO [http-nio-8080-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:51:47.385 INFO [http-nio-8080-exec-144] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:51:47.388 INFO [http-nio-8080-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:52:14.389 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:52:14.394 INFO [http-nio-8080-exec-149] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:52:14.401 INFO [http-nio-8080-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:52:16.006 INFO [http-nio-8080-exec-147] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:52:16.008 INFO [http-nio-8080-exec-98] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:52:16.015 INFO [http-nio-8080-exec-115] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 18:52:16.021 INFO [http-nio-8080-exec-148] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 18:52:28.821 INFO [http-nio-8080-exec-148] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:52:28.823 INFO [http-nio-8080-exec-145] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:53:44.472 INFO [http-nio-8080-exec-154] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:53:45.746 INFO [http-nio-8080-exec-155] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 18:53:45.748 INFO [http-nio-8080-exec-153] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:07:40.207 INFO [http-nio-8080-exec-156] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:07:40.209 INFO [http-nio-8080-exec-152] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:17:33.913 INFO [http-nio-8080-exec-155] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:17:33.918 INFO [http-nio-8080-exec-153] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:17:33.950 INFO [http-nio-8080-exec-152] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:17:35.798 INFO [http-nio-8080-exec-156] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:17:35.800 INFO [http-nio-8080-exec-155] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:17:35.916 INFO [http-nio-8080-exec-158] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:17:35.922 INFO [http-nio-8080-exec-152] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:18:43.533 INFO [http-nio-8080-exec-159] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:18:43.535 INFO [http-nio-8080-exec-154] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:18:43.543 INFO [http-nio-8080-exec-161] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:18:43.551 INFO [http-nio-8080-exec-163] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:19:13.884 INFO [http-nio-8080-exec-170] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:19:13.886 INFO [http-nio-8080-exec-171] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:19:13.894 INFO [http-nio-8080-exec-172] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:19:13.903 INFO [http-nio-8080-exec-169] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:35:38.707 INFO [http-nio-8080-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:35:38.713 INFO [http-nio-8080-exec-177] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SimpleJsps'
+11-Jul-2019 19:36:21.802 INFO [http-nio-8080-exec-183] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:36:21.806 INFO [http-nio-8080-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SimpleJsps'
+11-Jul-2019 19:42:27.003 INFO [http-nio-8080-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:43:18.370 INFO [http-nio-8080-exec-193] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:43:46.565 INFO [http-nio-8080-exec-193] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:43:46.567 INFO [http-nio-8080-exec-187] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:43:46.578 INFO [http-nio-8080-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/SimpleJsps'
+11-Jul-2019 19:45:15.402 INFO [http-nio-8080-exec-197] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:01.914 INFO [http-nio-8080-exec-197] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:07.892 INFO [http-nio-8080-exec-197] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:07.894 INFO [http-nio-8080-exec-198] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:12.917 INFO [http-nio-8080-exec-197] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:12.920 INFO [http-nio-8080-exec-198] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:51.462 INFO [http-nio-8080-exec-203] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:52.483 INFO [http-nio-8080-exec-202] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:51:52.484 INFO [http-nio-8080-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:52:39.907 INFO [http-nio-8080-exec-196] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:52:39.912 INFO [http-nio-8080-exec-198] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:52:39.920 INFO [http-nio-8080-exec-195] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:52:46.330 INFO [http-nio-8080-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:52:46.331 INFO [http-nio-8080-exec-205] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:52:46.340 INFO [http-nio-8080-exec-195] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:52:46.343 INFO [http-nio-8080-exec-206] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:53:04.325 INFO [http-nio-8080-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:53:04.330 INFO [http-nio-8080-exec-204] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:53:04.353 INFO [http-nio-8080-exec-206] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/SimpleJsps'
+11-Jul-2019 19:53:04.863 INFO [http-nio-8080-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/Java/AppData/Local/Temp/context91347442619784904.xml'
+11-Jul-2019 19:53:04.907 INFO [http-nio-8080-exec-205] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:53:05.542 INFO [http-nio-8080-exec-202] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:53:05.544 INFO [http-nio-8080-exec-208] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:53:05.552 INFO [http-nio-8080-exec-207] org.apache.catalina.core.ApplicationContext.log Manager: stop: Stopping web application '/SimpleJsps'
+11-Jul-2019 19:53:05.557 INFO [http-nio-8080-exec-202] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/SimpleJsps'
+11-Jul-2019 19:55:10.778 INFO [http-nio-8080-exec-204] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:55:10.780 INFO [http-nio-8080-exec-213] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:56:24.285 INFO [http-nio-8080-exec-214] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:56:25.115 INFO [http-nio-8080-exec-214] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2019 19:56:25.117 INFO [http-nio-8080-exec-213] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'

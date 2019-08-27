@@ -1,0 +1,104 @@
+10-Jul-2019 14:53:08.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_151\jre
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_151-b12
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\logging.properties
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-O0VLSEU
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\temp
+10-Jul-2019 14:53:08.509 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_151\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\dotnet\;.]
+10-Jul-2019 14:53:08.946 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Jul-2019 14:53:09.150 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Jul-2019 14:53:09.212 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Jul-2019 14:53:09.212 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Jul-2019 14:53:09.212 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1646 ms
+10-Jul-2019 14:53:09.337 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Jul-2019 14:53:09.337 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+10-Jul-2019 14:53:09.353 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPr.xml]
+10-Jul-2019 14:53:09.743 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPr.xml] has finished in [390] ms
+10-Jul-2019 14:53:09.743 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPratice.xml]
+10-Jul-2019 14:53:09.837 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\ServletPratice.xml] has finished in [94] ms
+10-Jul-2019 14:53:09.837 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml]
+10-Jul-2019 14:53:09.868 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\SimpleJsps.xml] has finished in [31] ms
+10-Jul-2019 14:53:09.868 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml]
+10-Jul-2019 14:53:09.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\testJsp.xml] has finished in [32] ms
+10-Jul-2019 14:53:09.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\docs]
+10-Jul-2019 14:53:09.962 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\docs] has finished in [62] ms
+10-Jul-2019 14:53:09.962 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\examples]
+10-Jul-2019 14:53:11.072 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\examples] has finished in [1,110] ms
+10-Jul-2019 14:53:11.072 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\host-manager]
+10-Jul-2019 14:53:11.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\host-manager] has finished in [47] ms
+10-Jul-2019 14:53:11.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\manager]
+10-Jul-2019 14:53:11.197 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\manager] has finished in [78] ms
+10-Jul-2019 14:53:11.197 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\ROOT]
+10-Jul-2019 14:53:11.212 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\webapps\ROOT] has finished in [15] ms
+10-Jul-2019 14:53:11.212 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Jul-2019 14:53:11.212 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Jul-2019 14:53:11.212 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2006 ms
+10-Jul-2019 14:57:00.630 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPratice] has started
+10-Jul-2019 14:57:00.693 INFO [http-nio-8080-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPratice] is completed
+10-Jul-2019 14:57:10.178 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPratice] has started
+10-Jul-2019 14:57:10.209 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPratice] is completed
+10-Jul-2019 15:10:17.637 INFO [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] has started
+10-Jul-2019 15:10:17.668 INFO [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] is completed
+10-Jul-2019 15:10:19.497 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] has started
+10-Jul-2019 15:10:19.512 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] is completed
+10-Jul-2019 15:11:27.459 INFO [http-nio-8080-exec-25] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] has started
+10-Jul-2019 15:11:27.474 INFO [http-nio-8080-exec-25] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] is completed
+10-Jul-2019 15:11:28.412 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] has started
+10-Jul-2019 15:11:28.443 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] is completed
+10-Jul-2019 17:50:24.147 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] has started
+10-Jul-2019 17:50:24.281 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ServletPr] is completed
+10-Jul-2019 17:52:42.616 INFO [http-nio-8080-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Servlet.xml]
+10-Jul-2019 17:52:42.676 INFO [http-nio-8080-exec-42] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [D:\1248515\javaServerSide\tomcat\apache-tomcat-8.5.42\apache-tomcat-8.5.42\conf\Catalina\localhost\Servlet.xml] has finished in [60] ms
+10-Jul-2019 17:52:42.676 INFO [http-nio-8080-exec-36] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/Servlet]] after start() had already been called. The second call will be ignored.
+10-Jul-2019 17:56:07.303 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 17:56:07.306 INFO [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 17:56:11.116 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 17:56:11.212 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 17:58:50.902 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 17:58:50.906 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 17:59:34.685 INFO [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 17:59:34.724 INFO [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:00:29.592 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:00:29.606 INFO [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:01:49.705 INFO [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:01:49.731 INFO [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:03:47.175 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:03:47.225 INFO [http-nio-8080-exec-68] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:06:02.905 INFO [http-nio-8080-exec-72] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:06:02.934 INFO [http-nio-8080-exec-72] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:06:36.134 INFO [http-nio-8080-exec-72] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:06:36.151 INFO [http-nio-8080-exec-72] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:08:05.593 INFO [http-nio-8080-exec-80] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:08:05.607 INFO [http-nio-8080-exec-80] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:08:23.642 INFO [http-nio-8080-exec-81] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:08:23.655 INFO [http-nio-8080-exec-81] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:08:46.655 INFO [http-nio-8080-exec-72] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:08:46.670 INFO [http-nio-8080-exec-72] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:09:21.655 INFO [http-nio-8080-exec-87] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:09:21.671 INFO [http-nio-8080-exec-87] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:09:22.611 INFO [http-nio-8080-exec-90] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:09:22.645 INFO [http-nio-8080-exec-90] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 18:14:29.903 INFO [http-nio-8080-exec-96] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] has started
+10-Jul-2019 18:14:29.921 INFO [http-nio-8080-exec-96] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Servlet] is completed
+10-Jul-2019 19:17:21.014 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Jul-2019 19:17:21.014 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Jul-2019 19:17:21.043 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+10-Jul-2019 19:17:21.059 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Jul-2019 19:17:21.074 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Jul-2019 19:17:21.074 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+10-Jul-2019 19:17:21.074 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+10-Jul-2019 19:17:21.074 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

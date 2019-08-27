@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p ="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        Hello from Facelets
+        <h:form>
+            <p:growl id="msgs" />
+                    
+            <p:outputLabel value="Simple:" for="acSimple" />
+            <p:autoComplete id="acSimple" value="#{autoCompleteView.txt1}" completeMethod="#{autoCompleteView.completeText}" /><br/><br/>
+         <p:selectOneListbox id="basic" value="#{selectOneView.option}">
+            <f:selectItem itemLabel="Option 1" itemValue="1" />
+            <f:selectItem itemLabel="Option 2" itemValue="2" />
+            <f:selectItem itemLabel="Option 3" itemValue="3" />
+        </p:selectOneListbox><br/><br/>
+        <p:selectOneButton value="#{selectOneView.option}">
+            <f:selectItem itemLabel="Xbox One" itemValue="Xbox One" />
+            <f:selectItem itemLabel="PS4" itemValue="PS4" />
+            <f:selectItem itemLabel="Wii U" itemValue="Wii U" />
+        </p:selectOneButton><br/><br/>
+       Calendar <p:calendar>
+            <p:ajax update="msgs" event="dateSelect" listener="#{con.onDateSelect}"/>
+        </p:calendar>
+        <p:outputLabel for="masking" value="Mask Test" />
+        <p:inputMask id="masking" mask="(99999) 999999"/>
+        
+        <p:outputLabel for="maskin" value="Mask Test" />
+        <p:inputMask id="maskin" mask="(99999) 99999a"/>
+        
+        <p:outputLabel for="maski" value="Mask Test" />
+        <p:inputMask id="maski" mask="a*-999-a999"/>
+
+        <p:outputLabel for="autoCom" value="Auto Complete"/>
+        <p:autoComplete id="autoCom" value="#{con.gender}" completeMethod="#{con.genders(input)}" />
+        <p:outputLabel for="autoC" value="Auto Complete number"/>
+        <p:autoComplete id="autoC"  completeMethod="#{con.item}" />
+        <p:outputLabel for="autoCo" value="Auto Complete number"/>
+        <p:autoComplete id="autoCo" multiple="true" completeMethod="#{con.item}" /><br/><br/>
+        Calendar<p:calendar />
+        <p:inputTextarea rows="10" cols="50"  queryDelay="750" minQueryLength="4" /><br/><br/>
+        <p:selectBooleanCheckbox value="#{con.male}"  itemLabel="Male"/>
+        <p:selectBooleanCheckbox value="#{con.female}" itemLabel="Female"/><br/>
+        fixed calendar
+        <p:calendar mode="inline"/><br/><br/>
+      spinner  <p:spinner stepFactor="5"/>
+     slider <p:inputText id="mySlider" />
+      <p:slider for="mySlider" step="5" />
+      Editor<p:editor /> 
+      in-place Editor
+      <p:inplace label="Click me to Change">
+          <h:inputText value="Tawhida" />
+      </p:inplace><br/>
+    Password  <p:password /><br/>
+    Rating <p:rating  />
+    
+    Panel
+    <p:panel id="panelId" header="panelHeader" footer="panel Footer" >
+        <h:outputText value="The story begins as Don Vito Corleone, the head of a New York Mafia family, oversees his daughter's wedding. His beloved son Michael has just come home from the war, but does not intend to become part of his father's business. Through Michael's life the nature of the family business becomes clear. The business of the family is just like the head of the family, kind and benevolent to those who give respect, but given to ruthless violence whenever anything stands against the good of the family. " />
+    </p:panel><br/><br/>
+    <p:panelGrid columns="2">
+        <f:facet name="header">User Information</f:facet>
+        <h:outputLabel for="firstName" value="First Name"/>
+        <p:inputText id="firstName" value=""  />
+        <h:outputLabel for="lastName" value="Last Name"/>
+        <p:inputText id="lastName" value="" label="lastName" required="true" />
+        <f:facet name="footer">
+            <p:commandButton type="button" value="Save" icon="ui-icon-check" style="margin: 0"/>
+        </f:facet>
+        
+        
+    </p:panelGrid>
+        
+    
+        </h:form>
+    </h:body>
+</html>
+

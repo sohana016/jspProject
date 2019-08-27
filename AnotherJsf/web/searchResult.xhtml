@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Airlines System... </title>
+    </h:head>
+    <h:body>
+        <h2>You entered this search parameter</h2>
+        <p>Origination <h:outputText value="#{flight.origination}" /></p>
+        <p>Trip Types <h:outputText value="#{flight.tripTypes}" /></p>
+        <p>Depart Time <h:outputText value="#{flight.departTime}" /></p>
+        <p>Return Time <h:outputText value="#{flight.returnTime}" /></p>
+        <br/>
+        <h4>Matching Flight</h4>
+        <p><h:outputText value="#{flight.matchingFlight[1]}" /></p>
+        
+    </h:body>
+</html>
+
